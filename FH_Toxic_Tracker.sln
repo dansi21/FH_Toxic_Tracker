@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FH_Toxic_Tracker", "FH_Toxic_Tracker\FH_Toxic_Tracker.csproj", "{8E8627E4-1B19-467F-A946-2E5D1F89B232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8627E4-1B19-467F-A946-2E5D1F89B232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8627E4-1B19-467F-A946-2E5D1F89B232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8627E4-1B19-467F-A946-2E5D1F89B232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8627E4-1B19-467F-A946-2E5D1F89B232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3EABC2-C578-41ED-80F8-3A673E7AC986}
+	EndGlobalSection
+EndGlobal
